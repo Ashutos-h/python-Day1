@@ -1,0 +1,25 @@
+1.Print anything you want.
+
+  print("Jon Snow will sit on the Iron Throne")
+
+2.Join two strings using "+".
+ 
+  str="acad"+"view"
+  print(str)
+
+3.Take input of three variables x, y, z and print their values on screen.
+
+  x=input("Enter value of x")
+  y=input("Enter value iof y")
+  z=input("Enter value of z")
+
+  print(x,y,z)
+
+4.Print "Let's get started" on screen.
+ 
+  print("Let's get started")
+  print('Let\'s get started')
+
+5.Intresting Exercise.
+
+  print(%s,%d)%(name,salary)
