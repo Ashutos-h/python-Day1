@@ -22,4 +22,4 @@
 
 5.Intresting Exercise.
 
-  print(%s,%d)%(name,salary)
+  print((%s,%d)%(name,salary))
